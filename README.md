@@ -1,3 +1,5 @@
+<p align="center"><img src="c948d88d3d5c5948a7c7acdbeb6ba1bc4e2a8ed1d174348ea4c903b22ab4c1e9.png" width="160" alt="Creator Monk Studios"></p>
+
 # Creator Monk Studios — Agent Skills
 
 Free, open skills for AI agents, built and used in production by [Creator Monk Studios](https://creatormonk.in) — a digital marketing, automation and growth agency from Greater Noida, India. *Fuel the future.*
@@ -36,6 +38,21 @@ Apply a locked channel standard to every video and Short: the right thumbnail fo
 1. Copy the skill's folder into your agent's skills directory.
 2. The agent reads `SKILL.md` for the method and `skill.yaml` for its metadata.
 3. Adapt brand names, folders and tools to your own setup — the workflow and the gates stay the same.
+
+## Install
+
+**Claude Code**
+```bash
+git clone https://github.com/creatormonkstudios/creatormonk-skills.git
+cp -r creatormonk-skills/skills/agency-content-planner ~/.claude/skills/
+```
+Copy any skill folder the same way. Each skill is a standard SKILL.md package.
+
+**Muse**
+Copy the skill folder into `~/workspace/custom-skills/` — the format (SKILL.md + skill.yaml) loads as-is.
+
+**Any SKILL.md-compatible agent**
+Point your agent at the skill's folder, or paste the raw SKILL.md URL into its skills setup.
 
 ## Why free?
 
