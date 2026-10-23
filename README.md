@@ -1,8 +1,8 @@
-<p align="center"><img src="c948d88d3d5c5948a7c7acdbeb6ba1bc4e2a8ed1d174348ea4c903b22ab4c1e9.png" width="160" alt="Creator Monk Studios"></p>
+<p align="center"><img src="assets/logo-animated.gif" width="160" alt="Creator Monk Studios"></p>
 
 # Creator Monk Studios — Agent Skills
 
-Free, open skills for AI agents, built and used in production by [Creator Monk Studios](https://creatormonk.in) — a digital marketing, automation and growth agency from Greater Noida, India. *Fuel the future.*
+Free, open skills for AI agents, built and used in production by [Creator Monk Studios](https://creatormonk.in) — a software development, AI automation and chatbot development studio from Greater Noida, India. *Fuel the future.*
 
 These skills teach AI agents (Claude, Muse and other SKILL.md-compatible agents) how to do real agency work the way a professional team does it: with checklists, quality gates and zero guesswork.
 
@@ -69,4 +69,4 @@ MIT — free for anyone to use, copy and adapt, including commercially. See [LIC
 ---
 
 **Creator Monk Studios** · creatormonk.in · Greater Noida, India
-Digital marketing · Automation · Growth
+Software Development · AI Automation · Chatbot Development
