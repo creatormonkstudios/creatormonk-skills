@@ -1,0 +1,5 @@
+name: "fb_whatsapp_browser_discipline"
+title: "Facebook and WhatsApp Browser Discipline"
+description: "Do Facebook and WhatsApp browser work without killing the session: reuse the existing tab, never open a new one, and verify logins before acting."
+category: "Work and knowledge"
+include_in_prompt: true
