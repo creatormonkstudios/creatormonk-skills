@@ -1,0 +1,5 @@
+name: "low_token_playbook"
+title: "Low-Token Playbook — Agent Self-Discipline"
+description: "Run any AI agent on a small token quota without losing quality: answer-first output discipline, tool-output filtering, and session habits that cut waste."
+category: "Work and knowledge"
+include_in_prompt: true
