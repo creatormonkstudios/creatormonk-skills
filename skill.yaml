@@ -1,0 +1,5 @@
+name: "agency_content_planner"
+title: "Agency Content Planner with Duplicate Prevention"
+description: "Run a multi-client social media content planner end to end: intake, captions, approvals, scheduling and circle-close, with hard gates so no creative is ever posted twice."
+category: "Work and knowledge"
+include_in_prompt: true
