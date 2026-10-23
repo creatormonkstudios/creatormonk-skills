@@ -1,0 +1,5 @@
+name: "youtube_channel_standard"
+title: "YouTube Channel Standard"
+description: "Apply a locked YouTube channel standard to every video and Short: the right thumbnail format per item type, bold high-CTR thumbnails, consistent category and language, and captions only from real auto-captions."
+category: "Work and knowledge"
+include_in_prompt: true
